@@ -7,6 +7,13 @@ I'm a passionate Computer Science student at Paragon International University an
 🌱 Currently learning backend with node js / express js.
 
 🔨 I’ve developed a complete clothes management system (admin dashboard + backend API)
+👨‍💻 Completed an internship at KiloIT, where I contributed to UI development using Kotlin Multiplatform and modern architecture design
+
+🛠️ Tech Stack
+Mobile: Flutter, Kotlin Multiplatform, Jetpack Compose
+Backend: Node.js, Express.js, MongoDB, RESTful APIs
+State Management: Riverpod(bacis) , GetX , Bloc (basic)
+Tools: Git, Postman, Cloudinary, JWT, GitHub Copilot, ChatGPT
 
 
 
