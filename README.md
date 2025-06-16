@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Sopanha Te!
+I'm a passionate Computer Science student at Paragon International University and a former Mobile Developer Intern at KiloIT. I specialize in Flutter, Kotlin Multiplatform, and love building clean, scalable apps that solve problems.
+
+🚀 About Me
+💡 I enjoy building cross-platform mobile apps and backend APIs for real products
+
+🌱 Currently learning backend with node js / express js.
+
+🔨 I’ve developed a complete clothes management system (admin dashboard + backend API)
+
+
 
 <!--
 **Tesopanha/Tesopanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
