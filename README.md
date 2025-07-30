@@ -5,7 +5,7 @@ I'm a passionate Computer Science student at Paragon International University an
 
 💡 I enjoy building cross-platform mobile apps and basic backend APIs
 
-🌱 Currently learning backend with node js / express js.
+🌱 Currently learning Python 
 
 🔨 I’ve developed a complete clothes management system (admin dashboard + backend API)
 
@@ -16,10 +16,11 @@ I'm a passionate Computer Science student at Paragon International University an
 
 ## 🛠️ Tech Stack
 
-- Mobile: Flutter, Kotlin Multiplatform, Jetpack Compose
-- Backend: Node.js, Express.js, MongoDB, RESTful APIs
+- Programming:  Dart, Kotlin, Node.js, Java (basic), Python (basic) 
+- Frameworks: Flutter, Kotlin Multiplatform, Express.js   
 - State Management: Riverpod(bacis) , GetX , Bloc (basic)
-- Tools: Git, Postman, Cloudinary, JWT, GitHub Copilot, ChatGPT
+- Tools:  Android Studio, VS Code, Cursor, Git, GitHub, Postman, Hive, MongoDB, Cloudinary, JWT, ChatGPT, Claude 
+- Soft Skills: Team collaboration, Self-learning, Adaptability, Problem-solving 
 
 
 
